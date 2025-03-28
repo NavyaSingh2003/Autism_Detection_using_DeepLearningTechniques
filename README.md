@@ -5,11 +5,16 @@ It provides transfer learning with the aim of addressing high dimensions in data
 The addition of regularization methods and cross-validation eliminates overfitting in these models, ensuring that they are applied in the clinical sphere. Other reasons include anonymized data and upholding standards for the medical data collected, thus maximizing the credibility of the system. This study proposes an ASD detector that is scalable, cost-effective, and objective; future work could involve making it an automatic diagnostic support mechanism.
 
 METHODOLOGY
+
 Feature Extraction Using VGG19
 a) Used the pre-trained VGG19 model on the ImageNet dataset to extract high-level semantic features.
+
 b) Extracted features from the block5_pool layer, which captures hierarchical image representations.
+
 c) Reshaped the extracted features to the input format required by the Inception models(v1, v2, v3, v4).
 
+
 DESIGN DIAGRAM
+C:\users\lenovo\Pictures\Screenshots\Screenshot 2025-03-29 021105.png
 
 COMPARISON
