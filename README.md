@@ -16,6 +16,6 @@ c) Reshaped the extracted features to the input format required by the Inception
 
 DESIGN DIAGRAM
 
-![image]C:\users\lenovo\Pictures\Screenshots\Screenshot 2025-03-29 021105.png
+![image](C:\users\lenovo\Pictures\Screenshots\Screenshot 2025-03-29 021105.png)
 
 COMPARISON
