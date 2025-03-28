@@ -16,7 +16,7 @@ c) Reshaped the extracted features to the input format required by the Inception
 
 WORKFLOW DIAGRAM
 
-![image](https://github.com/NavyaSingh2003/Autism_Detection_using_DeepLearningTechniques/blob/main/Screenshot%202025-03-29%20021105.png?raw=true)
+![image](https://github.com/NavyaSingh2003/Autism_Detection_using_DeepLearningTechniques/blob/main/workflow.png?raw=true)
 
 COMPARISON
 
