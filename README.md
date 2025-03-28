@@ -14,8 +14,10 @@ b) Extracted features from the block5_pool layer, which captures hierarchical im
 c) Reshaped the extracted features to the input format required by the Inception models(v1, v2, v3, v4).
 
 
-DESIGN DIAGRAM
+WORKFLOW DIAGRAM
 
 ![image](https://github.com/NavyaSingh2003/Autism_Detection_using_DeepLearningTechniques/blob/main/Screenshot%202025-03-29%20021105.png?raw=true)
 
 COMPARISON
+
+![image](https://github.com/NavyaSingh2003/Autism_Detection_using_DeepLearningTechniques/blob/main/comparison.png?raw=true)
